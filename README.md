@@ -1,5 +1,9 @@
 # currency_converter
 
+![home](https://github.com/judebevan/currency_converter/assets/89778410/f56a5f67-31ae-4d5e-a457-84e3203d3006)
+![2](https://github.com/judebevan/currency_converter/assets/89778410/52eeed85-0287-4ecb-a484-9f7b57c5ba4d)
+
+
 A new Flutter project.
 
 ## Getting Started
